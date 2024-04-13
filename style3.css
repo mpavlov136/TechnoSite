@@ -1,0 +1,141 @@
+main{
+    font-family: Calibri;
+    text-decoration: none;
+}
+header {
+    text-align: center;
+    color: white;
+}
+
+nav a {
+    position: fixed;
+    left: -80px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0px 5px 5px 0px;
+}
+
+nav a:hover {
+    left: 0;
+}
+
+.golovna {
+    top: 80px;
+    background-color: black;
+}
+
+.zamovity {
+    top: 140px;
+    background-color: black;
+}
+
+.Pronac {
+    top: 200px;
+    background-color: black;
+}
+
+.nazba {
+    font-size: 40px;
+    color: black;
+    font-family: Calibri;
+}
+
+.phototwo {
+    display:flax;
+    justify-content: space-around;
+    text-align: center;
+    width: 35px;
+    height: 35px;
+}
+
+.photothree {
+   width: 40px;
+    height: 40px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+ooter {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 470px;
+}
+
+
+footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footertwo {
+    display: flex;
+    justify-content: space-around;
+    width: 35px;
+    height: 35px;
+}
+
+main {
+    margin-left: 180px;
+}
+
+.zamovity2 {
+    border: 1px solid black;
+    padding: 7px;
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.foto1 {
+    height: 135px;
+    width: 135px;
+}
+
+.foto2 {
+    height: 90px;
+    width: 140px;
+}
+
+.foto3 {
+    height: 135px;
+    width: 135px; 
+}
+
+.zamovityhfe {
+   text-decoration: none;
+   color: white;
+   bottom: 15px;
+   border: 1px solid rgb(0, 0, 0);
+   border-radius: 15px;
+   padding: 7px;
+   background-color: black;
+}
+
+.tovar{
+    margin: 30px;
+}
+
+.zamovity2:hover {
+    height: 220px;
+    width: 170px;
+    padding: 10px;
+    transition: 0.5s ease-out;
+}
+
+.htwo {
+    padding-bottom: 15px;
+}
